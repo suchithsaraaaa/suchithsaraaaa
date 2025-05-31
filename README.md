@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **my malware detection project**
 
-- 👨‍💻 All of my projects are available at [https://sprightly-crumble-52e484.netlify.app](https://sprightly-crumble-52e484.netlify.app)
+- 👨‍💻 All of my projects are available at [suchithsara.com](suchithsara.com)
 
 - 💬 Ask me about **Pthon, Django, nodejs, js, html, css, JSON, RestApi**
 
