@@ -22,7 +22,7 @@
 
 ## What I do
 
-I'm a Python engineer with **7+ months of internship experience** in backend engineering and applied AI, finishing a B.Tech in Computer Science & Information Technology at CMR Technical Campus (2023–2027).
+I'm a Python engineer with **7+ months of internship experience** in backend engineering and applied AI, finishing a B.Tech in Computer Science & Information Technology (2023–2027).
 
 The through-line in my work: **systems that can't be allowed to fail.** A multilingual LLM stack that has to stay inside a government network. A live map that a city's police watch on the busiest night of the year. A rescue network built for the moment the internet goes away.
 
