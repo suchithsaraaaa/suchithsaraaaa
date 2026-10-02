@@ -1,210 +1,136 @@
 <div align="center">
-  <h1>Hi there, I'm Suchith Sara 👋</h1>
-  <h3>Python Developer | AI/ML Engineer | Backend & Cloud Enthusiast</h3>
+
+<a href="https://suchith-sara.vercel.app/">
+  <img src="assets/hero.svg" alt="Suchith Sara — AI Engineer / Systems Builder. 17.385° N 78.487° E, Hyderabad, India." width="100%">
+</a>
+
+<br>
+
+### 🎬 &nbsp;[**Watch my work as a 90-second film → suchith-sara.vercel.app**](https://suchith-sara.vercel.app/)
+
+<sub>Eight scenes, played by scroll. Press <kbd>Space</kbd> to play, <kbd>M</kbd> for sound. Also at <a href="https://suchithsara.com">suchithsara.com</a>.</sub>
+
+<br>
+
+<a href="https://suchith-sara.vercel.app/"><img src="https://img.shields.io/badge/the_film-suchith--sara.vercel.app-5ee7ff?style=for-the-badge&labelColor=05080c" alt="The film"></a>
+<a href="https://www.linkedin.com/in/suchith-sara-903133339/"><img src="https://img.shields.io/badge/linkedin-connect-5ee7ff?style=for-the-badge&labelColor=05080c" alt="LinkedIn"></a>
+<a href="https://suchithsara.com/Suchith_Sara_Resume.pdf"><img src="https://img.shields.io/badge/resume-PDF-5ee7ff?style=for-the-badge&labelColor=05080c" alt="Resume"></a>
+
 </div>
 
-<hr>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<p align="center">
-  🚀 Building practical solutions across <b>AI/ML, Backend Engineering, Computer Vision, and Cloud</b>.<br>
-  🤖 Worked with the <b>Telangana Police IT Cell</b> on RAG systems, LLM deployment, multilingual retrieval, and AI-powered document processing.<br>
-  🧠 Experienced with <b>Python, Django, Flask, REST APIs, LLMs, RAG, OpenCV, AWS, Docker, and SQL</b>.<br>
-  🌐 Currently exploring <b>distributed systems, edge computing, AI infrastructure, and intelligent automation</b>.<br>
-  👨‍💻 Check out my projects on <a href="https://github.com/suchithsaraaaa"><b>GitHub</b></a>.<br>
-  🌐 Portfolio: <a href="https://suchithsara.com"><b>suchithsara.com</b></a><br>
-  📄 View my <a href="https://drive.google.com/file/d/1DdjjQztchptK5eMELG5N1i9oC0_Wm7yk/view?usp=sharing"><b>Resume</b></a><br>
-  📫 Reach me at <b>suchithssara@gmail.com</b>
-</p>
+## What I do
 
-<hr>
+I'm a Python engineer with **7+ months of internship experience** in backend engineering and applied AI, finishing a B.Tech in Computer Science & Information Technology at CMR Technical Campus (2023–2027).
 
-### 💼 Experience
+The through-line in my work: **systems that can't be allowed to fail.** A multilingual LLM stack that has to stay inside a government network. A live map that a city's police watch on the busiest night of the year. A rescue network built for the moment the internet goes away.
 
-<ul>
-  <li>
-    <b>AI/ML & Full Stack Systems Intern – Telangana Police IT Cell</b>
-    <ul>
-      <li>Worked on an on-premises <b>Retrieval-Augmented Generation (RAG)</b> system for internal government use, including infrastructure sizing and deployment planning.</li>
-      <li>Supported a two-tier LLM architecture using <b>Llama 3.1 8B and Llama 3.3 70B AWQ INT4</b> deployed through vLLM across <b>6 NVIDIA A100 80GB GPUs</b>.</li>
-      <li>Implemented multilingual retrieval across <b>English, Telugu, and Hindi</b> using BGE-M3 embeddings and Qdrant.</li>
-      <li>Automated bulk processing and AI enrichment of information memo PDFs using the <b>Anthropic API</b>.</li>
-      <li>Prepared a <b>5-year Total Cost of Ownership</b> analysis comparing on-premises infrastructure with public and private cloud alternatives.</li>
-    </ul>
-  </li>
+<br>
 
-  <li>
-    <b>Python Developer Intern – Meta SciFor Technologies</b>
-    <ul>
-      <li>Engineered <b>20+ secure REST APIs</b> using Django and Flask with OAuth2 authentication.</li>
-      <li>Improved database query performance and storage efficiency by <b>40%</b> through database optimization.</li>
-      <li>Automated <b>7+ workflows</b> using webhooks and third-party integrations.</li>
-      <li>Collaborated across <b>3 cross-functional teams</b> while contributing to backend systems and CI/CD pipelines.</li>
-    </ul>
-  </li>
+## Selected work
 
-  <li>
-    <b>Google Campus Ambassador</b>
-    <ul>
-      <li>Engaged <b>1,000+ students</b> through technical sessions, workshops, hackathons, and developer programs.</li>
-      <li>Organized <b>10+ technical events</b> including study jams, workshops, and coding competitions.</li>
-      <li>Collaborated with <b>25+ faculty members</b> and student communities to expand developer programs.</li>
-      <li>Increased student participation by <b>35%</b> through targeted outreach and event engagement.</li>
-    </ul>
-  </li>
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://suchith-sara.vercel.app/"><img src="assets/card-map.svg" alt="The night the map went live: 4,200 live units held against a requirement of 4,000, 14,900+ idols, 72 stations."></a></td>
+<td width="50%" valign="top"><a href="https://github.com/suchithsaraaaa/resqmesh"><img src="assets/card-resqmesh.svg" alt="ResQMesh: an offline-first peer-to-peer mesh with multi-hop relaying up to 5 hops."></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://suchith-sara.vercel.app/"><img src="assets/card-rag.svg" alt="On-premises RAG: Documents, BGE-M3, Qdrant, vLLM on 6 A100 80GB GPUs."></a></td>
+<td width="50%" valign="top"><a href="https://github.com/suchithsaraaaa/integrated_predictor"><img src="assets/card-nestiq.svg" alt="NestIQ: property valuation with a 5-year forecast across 7 global regions."></a></td>
+</tr>
+</table>
 
-  <li>
-    <b>Treasurer / Core Committee – Lexis Club, CMR Technical Campus</b>
-    <ul>
-      <li>Led budgeting, sponsorship coordination, and financial planning for <b>15+ workshops and seminars</b>.</li>
-      <li>Coordinated event logistics and execution while engaging hundreds of students.</li>
-    </ul>
-  </li>
-</ul>
+<details open>
+<summary><b>01 &nbsp;The night the map went live</b> &nbsp;<sub>Telangana Police IT Cell · Ganesh Chaturthi</sub></summary>
+<br>
 
-### 🚀 Featured Projects
+A live tracking system for Hyderabad's visarjan: GPS from the field, through a backend and database, to a live command view. The requirement was **4,000** tracked units; the system held **4,200**, across **14,900+ idols** and **72 stations**.
+The full story, told as a scene in the film: [suchith-sara.vercel.app](https://suchith-sara.vercel.app/).
 
-<ul>
-  <li>
-    <b>ResQMesh AI – Offline-First Emergency Response & Tactical Mesh Platform</b>
-    <br>
-    <em>
-      An offline-first emergency response platform combining a local FastAPI and SQLite backend,
-      Electron/React command center, peer-to-peer mesh networking, on-device RAG,
-      AI-assisted incident correlation, START triage, and offline GIS.
-    </em>
-    <br><br>
-    <ul>
-      <li>Implemented P2P mesh communication using <b>UDP/mDNS</b> with multi-hop networking, packet caching, and link-quality monitoring.</li>
-      <li>Integrated on-device RAG for emergency SOP retrieval and AI-assisted incident analysis.</li>
-      <li>Built offline mapping using <b>MapLibre</b> and 3D visualization using <b>Three.js</b>.</li>
-    </ul>
-  </li>
+</details>
 
-  <li>
-    <b>NestIQ – Intelligent Real Estate Forecasting</b>
-    <br>
-    <em>
-      AI-powered property valuation platform using Random Forest Regression,
-      geospatial analytics, and economic heuristics to predict property values across
-      <b>7 global regions</b>.
-    </em>
-    <br><br>
-    <ul>
-      <li>Used <b>OSMnx, Shapely, and Geopy</b> for traffic, accessibility, crime, and nearby amenity analysis.</li>
-      <li>Developed scalable REST APIs using <b>Django REST Framework</b>.</li>
-      <li>Deployed the application on <b>AWS EC2</b> using Gunicorn and Nginx with automated deployment.</li>
-    </ul>
-  </li>
+<details open>
+<summary><b>02 &nbsp;ResQMesh</b> &nbsp;<sub>offline-first emergency response · <a href="https://github.com/suchithsaraaaa/resqmesh">repo</a> · <a href="https://res-q-mesh-cinematic-website--suchithssara.replit.app/">site</a></sub></summary>
+<br>
 
-  <li>
-    <b>V-CONF – Real-Time Video Conferencing Platform</b>
-    <br>
-    <em>
-      Peer-to-peer video conferencing application featuring authentication,
-      dynamic room management, and screen sharing using <b>WebRTC</b>.
-    </em>
-  </li>
+Inspired by the Nepal flash floods. When towers and cloud go down, ResQMesh keeps working: **no cloud infrastructure, no external APIs.**
 
-  <li>
-    <b>Crypto Risk Analysis Dashboard</b>
-    <br>
-    <em>
-      Interactive cryptocurrency analytics dashboard built with <b>Streamlit</b>,
-      CoinGecko, Alternative.me, and Plotly for market and risk visualization.
-    </em>
-  </li>
+- **Peer-to-peer mesh** with UDP + mDNS discovery, multi-hop relay (up to 5 hops), packet caching and link-quality metrics
+- **On-device RAG** over 17 protocols from NDMA, WHO, IFRC and INSARAG
+- **Incident correlation** that spots duplicate reports from different people and merges them
+- **Offline GIS** with MapLibre, plus a Three.js globe
+- FastAPI · SQLite · Electron · React
 
-  <li>
-    <b>Computer Vision Projects – CrowdGen</b>
-    <br>
-    <em>
-      Worked on computer vision tasks using <b>Python and OpenCV</b>, gaining
-      practical experience in image processing and vision-based workflows.
-    </em>
-  </li>
-</ul>
+*An engineering project inspired by the problem. Not deployed in any response.*
 
-### 🛠️ Languages and Technologies
+</details>
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+<details open>
+<summary><b>03 &nbsp;On-premises RAG for government</b> &nbsp;<sub>Telangana Police IT Cell</sub></summary>
+<br>
 
-### 🧠 Technical Skills
+- Architected an on-prem retrieval-augmented generation system: LLM selection, infrastructure sizing, deployment planning
+- **Two-tier LLMs**: Llama 3.1 8B + Llama 3.3 70B (AWQ INT4) on vLLM across **6 × NVIDIA A100 80GB**
+- **Multilingual retrieval** in English, Telugu and Hindi with BGE-M3 and Qdrant
+- Bulk processing and AI enrichment of memo PDFs with the Anthropic API
+- A **5-year TCO analysis**: on-premises vs public vs private cloud
 
-**Languages:** Python, SQL, JSON
+</details>
 
-**AI / Machine Learning:** Machine Learning, Deep Learning, NLP, LLMs, Generative AI, RAG, Computer Vision, OpenCV, XGBoost
+<details open>
+<summary><b>04 &nbsp;NestIQ</b> &nbsp;<sub>real estate forecasting · <a href="https://github.com/suchithsaraaaa/integrated_predictor">repo</a></sub></summary>
+<br>
 
-**Backend:** Django, Django REST Framework, Flask, REST APIs, OAuth2, Webhooks, API Integration
+Prices the *place*, not just the building. Crime, accessibility, traffic and amenities within 1.5 km shape a **5-year forecast across 7 regions**. Random Forest plus economic heuristics, served by Django REST, with OSMnx / Shapely / Geopy for the geospatial layers, deployed on AWS EC2 behind Nginx.
 
-**Data:** Pandas, NumPy, Scikit-learn, SQLite, MongoDB, PostgreSQL
+</details>
 
-**AI Infrastructure:** Llama 3.1, Llama 3.3, Qdrant, BGE-M3, vLLM, Anthropic API
+<img src="assets/divider.svg" width="100%" alt="">
 
-**Cloud & DevOps:** AWS EC2, S3, IAM, Docker, Linux, Nginx, Gunicorn, Git, GitHub, CI/CD
+## Path so far
 
-**Other:** WebRTC, Automation, Database Optimization, Geospatial Analytics
+| When | Where | What |
+|:--|:--|:--|
+| **Sep 2026 → now** | Telangana Police IT Cell | Technical Engineer Intern |
+| May – Jun 2026 | Telangana Police IT Cell | AI/ML and Full Stack Intern: on-prem RAG, multilingual retrieval |
+| Feb – Sep 2025 | Meta SciFor Technologies | Python Developer Intern: **20+ secure REST APIs** (OAuth2, Django, Flask), queries and storage **40% faster/leaner**, **7+ workflows** automated |
+| Jul – Dec 2025 | Google, CMR Technical Campus | Campus Ambassador: **1,000+ students**, 10+ events, participation **+35%** |
+| Jan 2024 – Jul 2026 | Lexis Club | Treasurer and core committee: budgets and sponsors for 15+ workshops |
+| Oct – Dec 2024 | AWS Academy | Cloud virtual internship |
 
-### 📜 Certifications
+National hackathon finalist. Certified in AWS Academy Cloud Architecting and Cloud Foundations, ServiceNow CSA and CAD, DLT and Hedera Network, and Generative AI Tools.
 
-<ul>
-  <li>AWS Academy Cloud Architecting</li>
-  <li>AWS Academy Cloud Foundations</li>
-  <li>ServiceNow Certified System Administrator</li>
-  <li>ServiceNow Certified Application Developer</li>
-  <li>Generative AI Tools Certification</li>
-  <li>DLT and Hedera Network Certification</li>
-  <li>SCRUM Bootcamp Certification</li>
-  <li>Goldman Sachs & TCS Virtual Experience Programs</li>
-</ul>
+## Toolbox
 
-### 🏆 Achievements & Leadership
+```text
+Languages   Python · SQL · TypeScript · JavaScript
+AI / ML     LLMs · RAG · NLP · Computer vision · scikit-learn · XGBoost
+AI infra    vLLM · Llama 3.x · BGE-M3 · Qdrant · Anthropic API
+Backend     Django · DRF · Flask · FastAPI · OAuth2 · webhooks
+Frontend    React · Next.js · Electron · Three.js · MapLibre
+Data        PostgreSQL · SQLite · MongoDB · pandas · NumPy
+Cloud       AWS (EC2 · S3 · IAM) · Docker · Nginx · Gunicorn · Linux · Git
+```
 
-<ul>
-  <li><b>National Hackathon Finalist</b> – 2-time participant</li>
-  <li><b>Google Campus Ambassador</b> – Engaged 1,000+ students through developer programs and technical events</li>
-  <li><b>Lexis Club Treasurer</b> – Led budgeting, sponsorships, and event coordination</li>
-  <li><b>Letter of Recommendation</b> – Received from the Director of Operations in recognition of internship contributions and performance</li>
-</ul>
+## Other things on this profile
 
-### 🌐 Connect With Me
+| | |
+|:--|:--|
+| 🎞️ [**suchith-sara**](https://github.com/suchithsaraaaa/suchith-sara) | The film above. Next.js static export; scroll-driven video, a generative score synthesised in Web Audio, no server |
+| 🤖 [**job-autopilot**](https://github.com/suchithsaraaaa/job-autopilot) | Finds jobs on companies' own boards, tailors a resume per job *without inventing anything*, and sends it to Telegram. Runs free on GitHub Actions |
+| 📈 [**crypto-risk-analysis**](https://github.com/suchithsaraaaa/crypto-risk-analysis) | Streamlit dashboard: ML price prediction and live risk monitoring |
+| 🎥 [**videochatapp**](https://github.com/suchithsaraaaa/videochatapp) | WebRTC video conferencing with rooms and screen sharing |
+| 🔗 [**blockchain-memo-authenticator**](https://github.com/suchithsaraaaa/blockchain-memo-authenticator) | [Live demo](https://v0-blockchain-memo-authenticator.vercel.app) |
 
-<p align="center">
-  <a href="https://github.com/suchithsaraaaa">GitHub</a> •
-  <a href="https://www.linkedin.com/in/suchith-sara-903133339/">LinkedIn</a> •
-  <a href="https://suchithsara.com">Portfolio</a> •
-  <a href="mailto:suchithssara@gmail.com">Email</a>
-</p>
-
-<hr>
+<br>
 
 <div align="center">
-  <b>Building practical technology at the intersection of AI, software engineering, and real-world systems.</b>
+
+**Want to build something that can't fail?**
+
+[suchith-sara.vercel.app](https://suchith-sara.vercel.app/) &nbsp;·&nbsp; [suchithsara.work@gmail.com](mailto:suchithsara.work@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/suchith-sara-903133339/)
+
+<sub>17.385° N · 78.487° E</sub>
+
 </div>

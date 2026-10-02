@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28"><line x1="0" y1="14" x2="1200" y2="14" stroke="#1b2f3d"/><circle r="3.5" fill="#5ee7ff"><animateMotion dur="5s" begin="0s" repeatCount="indefinite" path="M0,14 L1200,14"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="0s" repeatCount="indefinite"/></circle></svg>
