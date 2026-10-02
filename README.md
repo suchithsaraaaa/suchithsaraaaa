@@ -8,13 +8,13 @@
 
 ### 🎬 &nbsp;[**Watch my work as a 90-second film → suchith-sara.vercel.app**](https://suchith-sara.vercel.app/)
 
-<sub>Eight scenes, played by scroll. Press <kbd>Space</kbd> to play, <kbd>M</kbd> for sound. Also at <a href="https://suchithsara.com">suchithsara.com</a>.</sub>
+<sub>Eight scenes, played by scroll. Press <kbd>Space</kbd> to play, <kbd>M</kbd> for sound.</sub>
 
 <br>
 
 <a href="https://suchith-sara.vercel.app/"><img src="https://img.shields.io/badge/the_film-suchith--sara.vercel.app-5ee7ff?style=for-the-badge&labelColor=05080c" alt="The film"></a>
 <a href="https://www.linkedin.com/in/suchith-sara-903133339/"><img src="https://img.shields.io/badge/linkedin-connect-5ee7ff?style=for-the-badge&labelColor=05080c" alt="LinkedIn"></a>
-<a href="https://suchithsara.com/Suchith_Sara_Resume.pdf"><img src="https://img.shields.io/badge/resume-PDF-5ee7ff?style=for-the-badge&labelColor=05080c" alt="Resume"></a>
+<a href="https://suchith-sara.vercel.app/Suchith_Sara_Resume.pdf"><img src="https://img.shields.io/badge/resume-PDF-5ee7ff?style=for-the-badge&labelColor=05080c" alt="Resume"></a>
 
 </div>
 
@@ -32,7 +32,7 @@ The through-line in my work: **systems that can't be allowed to fail.** A multil
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://suchith-sara.vercel.app/"><img src="assets/card-map.svg" alt="The night the map went live: 4,200 live units held against a requirement of 4,000, 14,900+ idols, 72 stations."></a></td>
+<td width="50%" valign="top"><a href="https://github.com/suchithsaraaaa/ganesh-live-tracking-itcell"><img src="assets/card-map.svg" alt="The night the map went live: 4,200 live units held against a requirement of 4,000, 14,900+ idols, 72 stations."></a></td>
 <td width="50%" valign="top"><a href="https://github.com/suchithsaraaaa/resqmesh"><img src="assets/card-resqmesh.svg" alt="ResQMesh: an offline-first peer-to-peer mesh with multi-hop relaying up to 5 hops."></a></td>
 </tr>
 <tr>
@@ -42,11 +42,11 @@ The through-line in my work: **systems that can't be allowed to fail.** A multil
 </table>
 
 <details open>
-<summary><b>01 &nbsp;The night the map went live</b> &nbsp;<sub>Telangana Police IT Cell · Ganesh Chaturthi</sub></summary>
+<summary><b>01 &nbsp;The night the map went live</b> &nbsp;<sub>Telangana Police IT Cell · Ganesh Chaturthi · <a href="https://github.com/suchithsaraaaa/ganesh-live-tracking-itcell">repo</a></sub></summary>
 <br>
 
 A live tracking system for Hyderabad's visarjan: GPS from the field, through a backend and database, to a live command view. The requirement was **4,000** tracked units; the system held **4,200**, across **14,900+ idols** and **72 stations**.
-The full story, told as a scene in the film: [suchith-sara.vercel.app](https://suchith-sara.vercel.app/).
+Code: [ganesh-live-tracking-itcell](https://github.com/suchithsaraaaa/ganesh-live-tracking-itcell). The story, told as a scene in the film: [suchith-sara.vercel.app](https://suchith-sara.vercel.app/).
 
 </details>
 
